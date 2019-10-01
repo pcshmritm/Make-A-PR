@@ -17,4 +17,4 @@ For the first timers!
 | S.No.        | Name           | GitHub |
 | -------------|:-------------:| -----:|
 | 1.           | Raghav Sharma | [@raghav4](https://github.com/raghav4) |
-| 2.           | Abhishek Sindhwani | [@abhi99sind](https://github.com/abhi99sind)
+| 2.           | Abhishek Sindhwani | [@abhi99sind](https://github.com/abhi99sind)  |
