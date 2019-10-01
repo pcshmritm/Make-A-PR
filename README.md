@@ -23,3 +23,4 @@ For the first timers!
 | 1.           | Raghav Sharma | [@raghav4](https://github.com/raghav4) |
 | 2.           | Abhishek Sindhwani | [@abhi99sind](https://github.com/abhi99sind)  |
 | 3.           | Mayank Harbola | [@mayankharbola](https://github.com/MayankHarbola)  |
+| 4.           | Shridhar Rai | [@shridharrai](https://github.com/shridharrai)  |
