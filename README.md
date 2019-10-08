@@ -25,3 +25,5 @@ For the first timers!
 | 3.           | Mayank Harbola | [@mayankharbola](https://github.com/MayankHarbola)  |
 | 4.           | Shridhar Rai | [@shridharrai](https://github.com/shridharrai)  |
 | 5.           | Agyeya Mishra | [@AgyeyaMishra](https://github.com/AgyeyaMishra)  |
+| 6. 	       | Muhammad Farhan | [@farhan787](https://github.com/farhan787) |
+
