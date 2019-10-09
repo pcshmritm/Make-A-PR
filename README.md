@@ -27,3 +27,4 @@ For the first timers!
 | 5.           | Agyeya Mishra | [@AgyeyaMishra](https://github.com/AgyeyaMishra)  |
 | 6. 	       | Muhammad Farhan | [@farhan787](https://github.com/farhan787) |
 
+| 7. 	       | Rohit Prajapati | [@rohitprajapatii](https://github.com/rohitprajapatii) |
