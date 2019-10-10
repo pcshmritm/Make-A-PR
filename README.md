@@ -26,4 +26,5 @@ For the first timers!
 | 4.           | Shridhar Rai | [@shridharrai](https://github.com/shridharrai)  |
 | 5.           | Agyeya Mishra | [@AgyeyaMishra](https://github.com/AgyeyaMishra)  |
 | 6. 	       | Muhammad Farhan | [@farhan787](https://github.com/farhan787) |
+| 7. 	       | Rohit Prajapati | [@rohitprajapatii](https://github.com/rohitprajapatii) |
 
